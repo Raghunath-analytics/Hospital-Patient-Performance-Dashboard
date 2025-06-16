@@ -1,10 +1,8 @@
 
 ## 🎯 Project Objective
-
 This project focuses on creating a comprehensive **Hospital Patient Performance Dashboard** to track and analyze key performance indicators (KPIs) related to patient data, surgery outcomes, room occupancy, and medical operations. The objective is to empower hospital administrators with real-time insights for better decision-making and operational efficiency.
 
 ## 📁 Dataset Overview
-
 - Patient Demographics & Status
 - Surgery Details
 - Test Records
@@ -32,11 +30,11 @@ This project focuses on creating a comprehensive **Hospital Patient Performance 
 
 ## 📌 Dashboard Preview
 - <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%201.png">Visual 1</a>
--<a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%202.png">Visual 2</a>
--<a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%203.png">Visual 3</a>
--<a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%204.png">Visual 4</a>
--<a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%205.png">Visual 5 </a>
--<a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%206.png">Visual 6</a>
+- <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%202.png">Visual 2</a>
+- <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%203.png">Visual 3</a>
+- <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%204.png">Visual 4</a>
+- <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%205.png">Visual 5 </a>
+- <a href="https://github.com/Raghunath-analytics/Hospital-Patient-Performance-Dashboard/blob/main/Screenshot%206.png">Visual 6</a>
 
 ## 🛠 Tools & Techniques Used
 - **SQL (MS SQL Server)** – Data Extraction, Cleaning & Modeling  
